@@ -1,0 +1,26 @@
+{
+    "locations": [
+      {
+        "id": 1,
+        "name": "City Park",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "description": "A beautiful city park with a lake and walking trails."
+      },
+      {
+        "id": 2,
+        "name": "Beach Resort",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "description": "A luxury beachfront resort with stunning ocean views."
+      },
+      {
+        "id": 3,
+        "name": "Mountain Retreat",
+        "latitude": 39.5501,
+        "longitude": -105.7821,
+        "description": "A cozy mountain retreat for nature enthusiasts."
+      }
+    ]
+  }
+  
